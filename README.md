@@ -1,4 +1,4 @@
-# Azure Active Directory Identity & Access Security Lab
+# Identity & Access Security Lab (Microsoft Entra ID / Azure)
 **Enterprise Identity Management: RBAC, MFA, and Least Privilege Enforcement**
 
 <hr />
